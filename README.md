@@ -1,1 +1,1 @@
-(https://https://2curyhlxbjbkyrlrljrrag.on.drv.tw/www.KarthiFreelance/)
+(https://karthi8749.github.io/my_Portfoilio/)
