@@ -11544,7 +11544,7 @@ header{
 .cta-group {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 3px;
 
   justify-content: center;   /* mobile center */
 }
@@ -11552,6 +11552,7 @@ header{
 @media (min-width: 992px) {
   .cta-group {
     justify-content: flex-start;  /* desktop LEFT */
+    gap: 15px;
   }
 }
 
